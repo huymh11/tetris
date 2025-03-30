@@ -1,7 +1,6 @@
 <h1> BTL môn Công nghệ Java </h1>
 <h2> Thành viên </h2>
-- Hà Mạnh Huy <br>
-- Nguyễn Thanh An
+- Hà Mạnh Huy
 
 <h2> Hướng dẫn chạy chương trình </h2>
 - Bước 0: Mở Visual Studio Code. (Cài đặt nếu chưa cài sẵn trên máy. Để cài Extensions Java cho Visual Studio Code, chọn "Extensions" tại thanh điều hướng bên trái, sau đó gõ vào ô tìm kiếm từ khóa "Java" và cài đặt Extensions tùy thích.) <br>
